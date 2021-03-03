@@ -23,3 +23,5 @@
 ## About me
 
 💥 When I am not working on an exciting new project or learning new technologies, you can find me watching tv shows in EN/FR/DE or travelling. The latter is currently on hold for obvious reasons.
+
+🌈 I value empathy, communication, diversity & inclusion.
