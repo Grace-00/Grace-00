@@ -17,7 +17,7 @@
 
 ## Find me around the web
 
-💼 Feel free to connect with me on <a href="https://www.linkedin.com/in/grazia-palombella">LinkedIn</a> for job opportunities or collaborations!
+💼 You can reach out on <a href="https://www.linkedin.com/in/grazia-palombella">LinkedIn</a> !
 
 ## About me
 
