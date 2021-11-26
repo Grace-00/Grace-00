@@ -2,7 +2,7 @@
 
 ⭐  I'm a former translator (EN/DE > IT) turned frontend web developer. I love turning beautiful mockups into responsive, user-friendly websites and web applications.
 
-🔛  I'm currently working towards developing my tech and communication skills as a frontend developer intern at <a href="https://www.openmindonline.it" target="_blank">openmind</a>, an Italian boutique commerce agency with a multidisciplinary consulting approach in the areas of commerce, content, strategy, experience design and technology.
+🔛  I'm currently working towards developing my tech and communication skills with personal projects.
 
 ## Tech stack I enjoy working with
 
