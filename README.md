@@ -15,6 +15,10 @@
 ![VUE](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+## Algos on
+
+![CODEWARS](https://www.codewars.com/users/Grace-00/badges/large)
+
 ## Find me around the web
 
 💼 You can reach out on <a href="https://www.linkedin.com/in/grazia-palombella">LinkedIn</a> !
