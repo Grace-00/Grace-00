@@ -1,8 +1,16 @@
 ### 👋, I'm Grace! 👩‍💻
 
-⭐  I'm a former translator (EN/DE > IT) turned frontend web developer. I love turning beautiful mockups into responsive, user-friendly websites and web applications.
+👋 Hi, I’m Grace, nice to e-meet you!
 
-🔛  I'm currently working towards developing my tech and communication skills with personal projects.
+👩‍💻 I am a software engineer with experience in the Javascript ecosystem (Typescript, React, Next.js, Redux, Jest).
+
+🚀 My journey: as a translator in my past life, I have discovered software development whilst creating my own website. Being curious by nature and as a life-long learner, I started self-teaching myself the necessary skills, which eventually led to contributing as a Frontend Engineer at Drops (part of Kahoot!), a beloved language-learning app boasting over 40 million users. 
+
+🌈 My values: I enjoy being a part of international and diverse engineering teams with cultural and linguistic diversity. 
+
+📍 I am currently making a difference at Lottie on a mission to elevate later life.
+
+Current tech stack and tools: React, Next.js, Typescript, Jest, Tailwind, Storybook, Figma, Strapi.
 
 ## Tech stack and tools I enjoy working with
 
@@ -26,6 +34,6 @@
 
 ## About me
 
-💥 When I am not working on an exciting new project or learning new technologies through <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a>, you can find me watching tv shows in EN/FR/DE or travelling. The latter is currently on hold for obvious reasons.
+💥 When I am not working on an exciting new project or learning new technologies through <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a>, you can find me watching tv shows in EN/FR/DE or travelling. 
 
 🌈 I value empathy, communication, diversity & inclusion.
