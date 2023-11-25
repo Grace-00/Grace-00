@@ -1,6 +1,4 @@
-### 👋, I'm Grace! 👩‍💻
-
-👋 Hi, I’m Grace, nice to e-meet you!
+### 👋, I'm Grace, nice to e-meet you! 👩‍💻
 
 👩‍💻 I am a software engineer with experience in the Javascript ecosystem (Typescript, React, Next.js, Redux, Jest).
 
