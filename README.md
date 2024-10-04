@@ -32,6 +32,6 @@ Current tech stack and tools: React, Next.js, Typescript, Jest, Tailwind, Storyb
 
 ## About me
 
-💥 When I am not working on an exciting new project or learning new technologies through <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a>, you can find me watching tv shows in EN/FR/DE or travelling. 
+💥 When I am not working on an exciting new project or learning new technologies through <a href="https://www.frontendmentor.io/" target="_blank">Frontend Mentor</a> and <a href="https://www.frontendmasters.com/" target="_blank">Frontend Masters</a>, you can find me watching tv shows in EN/FR/DE or travelling. 
 
-🌈 I value empathy, communication, diversity & inclusion.
+🌈 I value empathy, communication, collaboration, diversity & inclusion.
