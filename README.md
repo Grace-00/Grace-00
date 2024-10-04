@@ -6,7 +6,7 @@
 
 🌈 My values: I enjoy being a part of international and diverse engineering teams with cultural and linguistic diversity. 
 
-📍 I am currently making a difference at Lottie on a mission to elevate later life.
+📍 I am currently looking for a new opportunity!
 
 Current tech stack and tools: React, Next.js, Typescript, Jest, Tailwind, Storybook, Figma, Strapi.
 
