@@ -1,12 +1,10 @@
 ### 👋, I'm Grace, nice to e-meet you! 👩‍💻
 
-👩‍💻 I am a software engineer with experience in the Javascript ecosystem (Typescript, React, Next.js, Redux, Jest).
+👩‍💻 Hi, I’m Grace, nice to e-meet you! I am a Frontend Engineer with over 2 years of experience with the Javascript ecosystem (React, Typescript, Next.js, Jest, React Native) in EdTech and HealthTech startups. I have been working remotely since 2021.
 
-🚀 My journey: as a translator in my past life, I have discovered software development whilst creating my own website. Being curious by nature and as a life-long learner, I started self-teaching myself the necessary skills, which eventually led to contributing as a Frontend Engineer at Drops (part of Kahoot!), a beloved language-learning app boasting over 40 million users. 
+🚀 Familiar with AWS Lambdas, Node, Express, MySQL. 
 
-🌈 My values: I enjoy being a part of international and diverse engineering teams with cultural and linguistic diversity. 
-
-📍 I am currently looking for a new opportunity!
+🌈 Lead with kindness. Empathy is fundamental in software development.
 
 Current tech stack and tools: React, Next.js, Typescript, Jest, Tailwind, Storybook, Figma, Strapi.
 
