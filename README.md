@@ -20,10 +20,6 @@ Current tech stack and tools: React, Next.js, Typescript, Jest, Tailwind, Storyb
 ![GIT](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Algos on
-
-![CODEWARS](https://www.codewars.com/users/Grace-00/badges/large)
-
 ## Find me around the web
 
 💼 You can reach out on <a href="https://www.linkedin.com/in/grazia-palombella">LinkedIn</a> !
